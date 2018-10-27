@@ -4,19 +4,19 @@ body {
 }
 @font-face{
     font-family: 'Aleo Regular';
-    src: url(fonts/aleoregular.ttf);
+    src: url(../../web/fonts/aleoregular.ttf);
 }
 @font-face{
     font-family: 'Josefin Sans bold';
-    src: url(fonts/josefinsansbold.ttf);
+    src: url(../../web/fonts/josefinsansbold.ttf);
 }
 @font-face{
     font-family: 'Josefin Sans regular';
-    src: url(fonts/josefinsansregular.ttf)
+    src: url(../../web/fonts/josefinsansregular.ttf)
 }
                                                 /* Header */
 .tr-header{
-    background: url(img/bgtop.jpg) no-repeat;
+    background: url(../../web/img/bgtop.jpg) no-repeat;
     background-size: cover; 
     width: 100%;
     height: 820px;
@@ -146,7 +146,7 @@ body {
 .tr-wcu {
     width: 100%;
     height: 680px;
-    background: url(img/bgwhy.jpg) no-repeat;
+    background: url(../../web/img/bgwhy.jpg) no-repeat;
     background-size: cover;
 }
 .tr-wcu {
@@ -275,7 +275,7 @@ body {
 .tr-article1{
     width: 100%;
     height: 690px;
-    background: url(img/articlebg1.jpg);
+    background: url(../../web/img/articlebg1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -325,7 +325,7 @@ body {
 .tr-article2{
     width: 100%;
     height: 690px;
-    background: url(img/articlebg2.jpg);
+    background: url(../../web/img/articlebg2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -376,7 +376,7 @@ body {
 .tr-comment {
     width: 100%;
     height: 730px;
-    background: url(img/commentbg.jpg) no-repeat;
+    background: url(../../web/img/commentbg.jpg) no-repeat;
     background-size: cover;
     padding-top: 125px;
 }
